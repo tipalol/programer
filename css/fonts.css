@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.navbar-brand {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 800;
+}
+
+.navbar-brand a {
+	font-weight: 800;
+}
