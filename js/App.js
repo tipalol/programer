@@ -6,7 +6,7 @@ Vue.component('app-nav', {
         		Programer
       		</a>
      	</nav>
-	`;
+	`
 });
 var app = new Vue({
 	el: '#app',
