@@ -1,4 +1,4 @@
-Vue.component({
+Vue.component('app-nav', {
 	template: `
 		<nav class="navbar navbar-light bg-light">
       		<a class="navbar-brand" href="#">
